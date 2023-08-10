@@ -1,0 +1,269 @@
+.flag{
+    height: 600px;
+    width: 900px;
+}
+
+.flag > div{
+    height: 200px;
+    width: 100%;
+}
+
+#orange{
+    background-color: #ff9933;
+    
+}
+
+#white{
+    background-color: #ffffff;
+}
+
+#green{
+    background-color:  #128807;
+}
+
+#outer-circle{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    background-color: #000088;
+    position: relative;
+    top: 25px;
+    left: 375px;
+}
+
+#inner-circle{
+    height: 94%;
+    width: 94%;
+    border-radius: 50%;
+    background-color: white;
+    position: relative;
+    top: 3%;
+    left: 3%;
+}
+
+#inner-circle > div{
+    background-color: #000088;
+}
+
+#center{
+    height: 20%;
+    width: 20%;
+    border-radius: 50%;
+    position: relative;
+    top: 40%;
+    left: 40%;
+}
+
+#first-line{
+    height: 39.9%;
+    width: 2px;
+    position: absolute;
+    left: 49%;
+    top: 0;
+}
+
+#second-line{
+    height: 39.9%;
+    width: 2px;
+    position: absolute;
+    left: 49%;
+    bottom: 0%;
+}
+
+#third-line{
+    height: 39.9%;
+    width: 2px;
+    transform: rotate(90deg);
+    position: absolute;
+    top: 30%;
+    left: 20%;
+}
+
+#fourth-line{
+    height: 39.9%;
+    width: 2px;
+    transform: rotate(90deg);
+    position: absolute;
+    top: 30%;
+    right: 19%;
+}
+
+#fifth-line{
+    height: 39.9%;
+    width: 2px;
+    transform: rotate(12deg);
+    position: absolute;
+    top: 1%;
+    right: 42%;
+}
+
+#sixth-line{
+    height: 39.9%;
+    width: 2px;
+    transform: rotate(24deg);
+    position: absolute;
+    top: 3.5%;
+    right: 35%;
+}
+
+#seventh-line{
+    height: 39.9%;
+    width: 2px;
+    transform: rotate(40deg);
+    position: absolute;
+    top: 9%;
+    right: 28%;
+}
+
+#eigth-line{
+    height: 39.9%;
+    width: 2px;
+    transform: rotate(52deg);
+    position: absolute;
+    top: 14%;
+    right: 24%;
+}
+
+#ninth-line{
+    height: 39.9%;
+    width: 2px;
+    transform: rotate(70deg);
+    position: absolute;
+    top: 21%;
+    right: 21%;
+}
+
+#tenth-line{
+    height: 39.9%;
+    width: 2px;
+    transform: rotate(112deg);
+    position: absolute;
+    bottom: 21%;
+    right: 21%;
+}
+
+#eleventh-line{
+    height: 39.9%;
+    width: 2px;
+    transform: rotate(130deg);
+    position: absolute;
+    bottom: 13%;
+    right: 25%;
+}
+
+#twelvth-line{
+    height: 39.9%;
+    width: 2px;
+    transform: rotate(142deg);
+    position: absolute;
+    bottom: 7%;
+    right: 30%;
+}
+
+#thirteen-line{
+    height: 39.9%;
+    width: 2px;
+    transform: rotate(158deg);
+    position: absolute;
+    bottom: 2.5%;
+    right: 38%;
+}
+
+#fourteen-line{
+    height: 39.9%;
+    width: 2px;
+    transform: rotate(170deg);
+    position: absolute;
+    bottom: 1%;
+    right: 44%;
+}
+
+#fifteen-line{
+    height: 39.9%;
+    width: 2px;
+    transform: rotate(12deg);
+    position: absolute;
+    bottom: 1%;
+    left: 42%;
+}
+
+#sixteen-line{
+    height: 39.9%;
+    width: 2px;
+    transform: rotate(24deg);
+    position: absolute;
+    bottom: 3.5%;
+    left: 35%;
+}
+
+#seventeen-line{
+    height: 39.9%;
+    width: 2px;
+    transform: rotate(40deg);
+    position: absolute;
+    bottom: 9%;
+    left: 28%;
+}
+
+#eigthteen-line{
+    height: 39.9%;
+    width: 2px;
+    transform: rotate(52deg);
+    position: absolute;
+    bottom: 14%;
+    left: 24%;
+}
+
+#nineteen-line{
+    height: 39.9%;
+    width: 2px;
+    transform: rotate(70deg);
+    position: absolute;
+    bottom: 21%;
+    left: 21%;
+}
+
+#twenty-line{
+    height: 39.9%;
+    width: 2px;
+    transform: rotate(112deg);
+    position: absolute;
+    top: 21%;
+    left: 21%;
+}
+
+#twenty-one-line{
+    height: 39.9%;
+    width: 2px;
+    transform: rotate(130deg);
+    position: absolute;
+    top: 13%;
+    left: 25%;
+}
+
+#twenty-two-line{
+    height: 39.9%;
+    width: 2px;
+    transform: rotate(142deg);
+    position: absolute;
+    top: 7%;
+    left: 30%;
+}
+
+#twenty-three-line{
+    height: 39.9%;
+    width: 2px;
+    transform: rotate(158deg);
+    position: absolute;
+    top: 2.5%;
+    left: 38%;
+}
+
+#twenty-four-line{
+    height: 39.9%;
+    width: 2px;
+    transform: rotate(170deg);
+    position: absolute;
+    top: 1%;
+    left: 44%;
+}
